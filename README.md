@@ -1,5 +1,11 @@
 # West Bengal Election Prediction Model (2021 → 2026)
 
+## Contributors
+
+<a href="https://github.com/aam-007/bengal-election-2026/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aam-007/bengal-election-2026" />
+</a>
+
 ## Overview
 
 This project is a data-driven analysis and prediction of the **2026 West Bengal Legislative Assembly elections** using the 2021 constituency-level results. The goal is to create a systematic model to forecast likely winners and party performance, incorporating historical data and basic constituency features.
