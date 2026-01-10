@@ -177,4 +177,4 @@ Created by-
 ## Acknowledgments
 
 - Election Commission of India (ECI) for providing the 2021 election data
-- The open-source community for the tools and libraries used in this project
+- The open-source community for the tools and libraries used in this project.
