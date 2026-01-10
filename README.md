@@ -1,11 +1,5 @@
 # West Bengal Election Prediction Model (2021 → 2026)
 
-## Contributors
-
-<a href="https://github.com/aam-007/bengal-election-2026/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=aam-007/bengal-election-2026" />
-   <img src="https://contrib.rocks/image?repo=soham21sahay/bengal-election-2026" />
-</a>
 
 ## Overview
 
